@@ -14,7 +14,7 @@
     "react-final-form": "*",
     "react-navi": "*",
     "react-scripts": "*",
-    "styled-components": "*"
+    "styled-components": "6.1.0"
   },
   "devDependencies": {
     "@types/blueimp-md5": "*",
