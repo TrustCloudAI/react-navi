@@ -5,7 +5,7 @@
   "dependencies": {
     "blueimp-md5": "*",
     "final-form": "*",
-    "firebase": "*",
+    "firebase": "10.13.0",
     "navi": "*",
     "polished": "*",
     "ramda": "*",
