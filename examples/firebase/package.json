@@ -13,7 +13,7 @@
     "react-dom": "*",
     "react-final-form": "*",
     "react-navi": "*",
-    "react-scripts": "*",
+    "react-scripts": "4.0.0",
     "styled-components": "*"
   },
   "devDependencies": {
